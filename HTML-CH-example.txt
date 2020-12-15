@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            This is my first web page
+        </title>
+    </head>
+    <body> 
+        <h1> 
+            Pakistan is our Beloved Country
+        </h1>
+        <p lang="en-us"> A page may begin with the introduction followed by sub heading</p>
+        <h2>This is the first sub heading </h2>
+        <p>Longer papers have more subheadings</p>
+        <h2> This is second sub heading </h2>
+        <p>This is another paragraph</p>
+    </body>
+</html>

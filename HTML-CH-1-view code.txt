@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            This is my first web page
+        </title>
+    </head>
+    <body> 
+        <h1> 
+            How to view the source of this page
+        </h1>
+        <p lang="en-us"> If you right click on the page,you will see an option that allows you to see source code behind that web page
+
+        </p>
+      
+        <p>This is an easy way to see how a web page being built</p>
+       
+    </body>
+</html>
